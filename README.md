@@ -18,9 +18,6 @@ Se utilizan datos de ventas, categorías, reseñas y costos de envío de 4 tiend
     <li><strong>Clonar el repositorio</strong>:
         <pre><code>git clone https://github.com/Jeimmy12/challenge1-data-science.git</code></pre>
     </li>
-    <li><strong>Instalar dependencias</strong>:
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
     <li><strong>Abrir el notebook</strong>:
         <pre><code>jupyter notebook AluraStoreLatam.ipynb</code></pre>
     </li>
@@ -38,8 +35,7 @@ alura-store/
 │   └── tienda_4.csv
 │
 ├── imgs/                  # Gráficas exportadas
-│   ├── ingresos_por_tienda.png
-│   ├── calificacion_promedio.png
+│   ├── ingresos_acumulados.png
 │   ├── distribucion_categorias.png
 │   ├── dispersion_precio_calificacion.png
 │   ├── distribucion_categorias.png
@@ -58,11 +54,8 @@ alura-store/
 </ul>
 
 <h2>Resultados 📊</h2>
-<h3>Ingresos totales por tienda</h3>
-<img src="imgs/ingresos_por_tienda.png" alt="Ingresos por tienda" class="screenshot">
-
-<h3>Calificaciones promedio</h3>
-<img src="imgs/calificacion_promedio.png" alt="Calificaciones promedio" class="screenshot">
+<h3>Ingresos acumulados</h3>
+<img src="imgs/ingresos_acumulados.png" alt="Ingresos acumulados" class="screenshot">
 
 <h3>Distribución de ventas por categoría</h3>
 <img src="imgs/distribucion_categorias.png" alt="Distribución categorías" class="screenshot">
