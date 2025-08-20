@@ -83,8 +83,8 @@ Esto permitirá enfocar los recursos en las tiendas más rentables y con mejor a
 
 <h2>Autor ✒️</h2>
 <ul>
-    <li><strong>Tu Nombre</strong></li>
-    <li>GitHub: <a href="https://github.com/tu-usuario">tu-usuario</a></li>
+    <li><strong>Jeimmy Eche</strong></li>
+    <li>GitHub: <a href="https://github.com/Jeimmy12">Jeimmy Eche</a></li>
 </ul>
 
 <hr>
